@@ -1,0 +1,7 @@
+<ComponentSchema packageName="com.droidcon.desktimer">
+    <Component name="ToolComponent" description="Identify tool entities and store UI properties">
+        <IntAttribute name="uuid" defaultValue="0" />      <!-- unique id for tool (if needed) -->
+        <Vector3Attribute name="deleteButtonPosition" defaultValue="0f, 0f, 0f" />
+        <!-- position offset where delete button should appear relative to this tool -->
+    </Component>
+</ComponentSchema>

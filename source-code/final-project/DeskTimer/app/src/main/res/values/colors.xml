@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF727087</color>
+    <color name="purple">#FFBFBAFF</color>
+
+    <!-- Timer colors -->
+    <color name="timer_peach">#FFFCD5CD</color>
+    <color name="timer_orange">#FFFF9800</color>
+    <color name="timer_golden">#FFE8B17A</color>
+
+    <!-- UI background colors -->
+    <color name="background_dark">#FF1A1A1A</color>
+    <color name="background_medium">#FF2A2A2A</color>
+
+    <!-- UI element colors -->
+    <color name="button_red">#FFFF6B6B</color>
+    <color name="border_gray">#FF666666</color>
+    <color name="text_gray">#FF999999</color>
+</resources>
+

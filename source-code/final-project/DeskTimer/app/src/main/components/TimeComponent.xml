@@ -1,0 +1,7 @@
+<ComponentSchema packageName="com.droidcon.desktimer">
+    <Component name="TimeComponent" description="Tracks properties of Timer tool for UpdateTimeSystem">
+        <IntAttribute name="totalTime" defaultValue="0" />       <!-- total duration in seconds -->
+        <LongAttribute name="startTime" defaultValue="0L" />     <!-- timestamp when timer started (ms) -->
+        <BooleanAttribute name="complete" defaultValue="false" /><!-- flag if timer has finished -->
+    </Component>
+</ComponentSchema>
