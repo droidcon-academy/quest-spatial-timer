@@ -8,7 +8,7 @@ This repository contains the full source code and assets for the tutorial:
 - 🧑‍💻 **Target Audience:** Android & Kotlin developers exploring Mixed Reality  
 - 🎯 **Goal:** Learn how to build a real 3D timer app using the **Meta Spatial SDK**, **ECS**, **Compose panels**, **Spatial Audio**, **Scene Editing**, and natural MR interactions.
 
-[Read the full tutorial →](https://proandroiddev.com/from-android-to-mixed-reality-build-a-high-quality-spatial-timer-app-for-meta-quest-945d17f47327) <!-- Insert Medium link -->
+[Read the full tutorial →](https://proandroiddev.com/from-android-to-mixed-reality-build-a-high-quality-spatial-timer-app-for-meta-quest-945d17f47327) 
 
 ---
 
@@ -38,4 +38,4 @@ By the end, you’ll have a fully interactive MR tool that feels like part of yo
 - 🧲 Grabbable & placeable spatial objects  
 - ⏱ Live countdown driven by ECS  
 - 🎵 Spatial creation & completion audio  
-- 😴 Configurable snooze button (
+- 😴 Configurable snooze button 
